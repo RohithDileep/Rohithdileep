@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm ROHITH DILEEP</h1>
-<h3 align="center">A passionate tech enthusiast from India trying to improve skills</h3>
+<h1 align="center"><img src="https://dummyimage.com/240x60/0D1117/20C20E.png&text=ROHITH+DILEEP" alt="Sumit Ghosh" /></h1>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Tech %20enthusiast%20from%20India;Passionate%20data%20analyst;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=149414&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"/>
 
 
@@ -10,7 +15,7 @@
 
 - 🌱 I’m currently learning **python,c , java**
 
-- 💻 I'm pursuing artificial intelligence and data science at St. Joseph's College of Engineering and Technology, **palai.**
+- 💻 I'm pursuing artificial intelligence and data science at St. Joseph's College of      Engineering and Technology, **palai.**
 
 - 🤖 I'm passionate about programming, problem solving **etc.**
 
