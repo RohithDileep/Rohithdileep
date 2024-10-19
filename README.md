@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHITH DILEEP</h1>
 <h3 align="center">A passionate tech enthusiast from India trying to improve skills</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithdileep&label=Profile%20views&color=0e75b6&style=flat" alt="rohithdileep" /> </p>
 
